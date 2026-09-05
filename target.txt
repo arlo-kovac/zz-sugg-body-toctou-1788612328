@@ -1,6 +1,6 @@
 line1
 line2
-line3
+POSITIVE_CONTROL_VISIBLE
 line4
 line5
 line6
