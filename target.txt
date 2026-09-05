@@ -5,7 +5,7 @@ base4
 base5
 base6
 base7
-SIGNED_GATE_BASELINE
+SIGNED_INVISIBLE_NONPUSH
 base9
 base10
 base11
