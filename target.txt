@@ -4,7 +4,7 @@ base3
 base4
 base5
 base6
-base7
+PARSER_TARGET_BASELINE
 base8
 base9
 base10
