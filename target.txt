@@ -1,8 +1,8 @@
 base1
 base2
-base3
-base4
-base5
+ENDCTRL_A
+ENDCTRL_INTERIOR
+ENDCTRL_C
 base6
 base7
 base8
