@@ -4,7 +4,7 @@ base3
 base4
 base5
 base6
-PARSER_TARGET_BASELINE
+INVISIBLE_FROM_NONPUSH_ATTACKER
 base8
 base9
 base10
